@@ -1,7 +1,7 @@
 # InventarioGrupo8DSII
-Este repositorio contiene el código fuente de la implementación de un sistema de inventario como parte del desarrollo de un proyecto académico.
+Este repositorio contiene el código fuente de la implementación de una parte de un sistema de inventario como parte del desarrollo de un proyecto académico.
 
-El sistema está construido utilizando Node.js con Express, aplicando una arquitectura hexagonal (Ports and Adapters), la cual permite una separación clara entre las capas de dominio, aplicación e infraestructura.
+El sistema está construido utilizando Node.js con Express, aplicando una arquitectura hexagonal la cual permite una separación clara entre las capas de dominio, aplicación e infraestructura.
 
 Para la persistencia de datos se utilizan dos enfoques:
 
